@@ -1,0 +1,10 @@
+# .gitignore
+venv/
+__pycache__/
+*.pth
+*.dll
+*.exe
+*.lib
+*.so
+*.pyc
+*.ipynb_checkpoints
